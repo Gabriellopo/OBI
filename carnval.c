@@ -1,3 +1,4 @@
+//Edicao dia 25/10
 #include<stdio.h>
 #include<stdlib.h>
 int main()
